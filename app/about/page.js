@@ -13,8 +13,8 @@ export default function AboutPage() {
           <p className="text-lg leading-relaxed mb-4">
             Hola, soy un desarrollador <strong>FullStack</strong> especializado en{' '}
             <span className="text-blue-600">React</span>,{' '}
-            <span className="text-blue-600">Next.js</span>, y{' '}
-            <span className="text-blue-600">FastAPI</span>
+            <span className="text-blue-600">Next.js</span>, 
+            <span className="text-blue-600">FastAPI</span>y{' '}
             <span className="text-blue-600">Python</span>. Me apasiona crear
             aplicaciones web eficientes, escalables y con una gran experiencia de
             usuario. Desarollando modelos de ML, hasta su deploy en aplicaciones, 
